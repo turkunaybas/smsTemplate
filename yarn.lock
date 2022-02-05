@@ -2425,6 +2425,14 @@ expo-constants@~13.0.0:
     "@expo/config" "^6.0.6"
     uuid "^3.3.2"
 
+expo-contacts@~10.1.0:
+  version "10.1.0"
+  resolved "https://registry.yarnpkg.com/expo-contacts/-/expo-contacts-10.1.0.tgz#a646689f26bc0c36260066970f25706c5be14fd0"
+  integrity sha512-L5Na3UXFn6AjoOv+Dq2aidYwVnre4Q6dLWva7vK+fj01mjWE/hww0TCXG2x9RT/uL6MYYk1z+5Gkwu2TjeZUfg==
+  dependencies:
+    "@expo/config-plugins" "^4.0.2"
+    uuid "^3.4.0"
+
 expo-error-recovery@~3.0.4:
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/expo-error-recovery/-/expo-error-recovery-3.0.4.tgz#de85c8c6b387d9b1e532256600882f2c2704383a"
@@ -2468,6 +2476,11 @@ expo-modules-core@0.6.4:
   dependencies:
     compare-versions "^3.4.0"
     invariant "^2.2.4"
+
+expo-sms@~10.1.0:
+  version "10.1.0"
+  resolved "https://registry.yarnpkg.com/expo-sms/-/expo-sms-10.1.0.tgz#d196666da462a5ac774e08cba2056175568f919e"
+  integrity sha512-6wzC721sPNZDtWjESy8Ohw/jII7a/PZkUePmS2lP2Z30AuXrlYlGot8LwWTDLYsDbs6uUOmKezp4vOelN9aVfQ==
 
 expo-status-bar@~1.2.0:
   version "1.2.0"
